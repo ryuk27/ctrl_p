@@ -5,13 +5,13 @@ This repository provides 100 prompt topics designed to help you craft powerful a
 ## Table of Contents
 - [Overview](#overview)
 - [Grouped Topics](#grouped-topics)
-  - ![Business and Marketing](https://img.shields.io/badge/Business%20and%20Marketing-blue) [Business and Marketing](#business-and-marketing)
-  - ![Technology and Coding](https://img.shields.io/badge/Technology%20and%20Coding-orange) [Technology and Coding](#technology-and-coding)
-  - ![Content Creation and Writing](https://img.shields.io/badge/Content%20Creation%20and%20Writing-green) [Content Creation and Writing](#content-creation-and-writing)
-  - ![Education and Learning](https://img.shields.io/badge/Education%20and%20Learning-yellow) [Education and Learning](#education-and-learning)
-  - ![Customer Support and User Interaction](https://img.shields.io/badge/Customer%20Support%20and%20User%20Interaction-lightblue) [Customer Support and User Interaction](#customer-support-and-user-interaction)
-  - ![Health and Wellness](https://img.shields.io/badge/Health%20and%20Wellness-red) [Health and Wellness](#health-and-wellness)
-  - ![Miscellaneous](https://img.shields.io/badge/Miscellaneous-purple) [Miscellaneous](#miscellaneous)
+  - [Business and Marketing](#business-and-marketing)
+  - [Technology and Coding](#technology-and-coding)
+  - [Content Creation and Writing](#content-creation-and-writing)
+  - [Education and Learning](#education-and-learning)
+  - [Customer Support and User Interaction](#customer-support-and-user-interaction)
+  - [Health and Wellness](#health-and-wellness)
+  - [Miscellaneous](#miscellaneous)
 - [How to Use](#how-to-use)
 
 ## Overview
@@ -19,7 +19,7 @@ The goal of this repository is to provide a comprehensive set of prompt ideas th
 
 ## Grouped Topics
 
-### 1. ![Business and Marketing](https://img.shields.io/badge/Business%20and%20Marketing-blue) Business and Marketing
+### 1. Business and Marketing
 These prompts help with writing content and creating solutions for businesses, advertising, and client management.
 
 - Writing detailed product descriptions
@@ -38,7 +38,7 @@ These prompts help with writing content and creating solutions for businesses, a
 - Generating competitive analysis reports
 - Planning digital marketing funnels
 
-### 2. ![Technology and Coding](https://img.shields.io/badge/Technology%20and%20Coding-orange) Technology and Coding
+### 2. Technology and Coding
 Prompts related to solving technical problems, developing applications, and writing code.
 
 - Coding and debugging assistance
@@ -54,7 +54,7 @@ Prompts related to solving technical problems, developing applications, and writ
 - Writing technical comparisons (e.g., products, software)
 - Creating guides for troubleshooting
 
-### 3. ![Content Creation and Writing](https://img.shields.io/badge/Content%20Creation%20and%20Writing-green) Content Creation and Writing
+### 3. Content Creation and Writing
 Prompts focused on generating creative ideas and producing content across different mediums.
 
 - Generating creative story plots
@@ -69,7 +69,7 @@ Prompts focused on generating creative ideas and producing content across differ
 - Generating video content ideas
 - Writing articles on emerging tech
 
-### 4. ![Education and Learning](https://img.shields.io/badge/Education%20and%20Learning-yellow) Education and Learning
+### 4. Education and Learning
 Prompts designed for learning, teaching, and knowledge transfer in academic and professional settings.
 
 - Outlining research papers
@@ -84,7 +84,7 @@ Prompts designed for learning, teaching, and knowledge transfer in academic and 
 - Generating innovation workshop prompts
 - Writing summaries for legal contracts
 
-### 5. ![Customer Support and User Interaction](https://img.shields.io/badge/Customer%20Support%20and%20User%20Interaction-lightblue) Customer Support and User Interaction
+### 5. Customer Support and User Interaction
 Prompts for customer service, improving user experience, and enhancing product interaction.
 
 - Analyzing user feedback for improvements
@@ -96,7 +96,7 @@ Prompts for customer service, improving user experience, and enhancing product i
 - Writing FAQs for websites/apps
 - Drafting content moderation guidelines
 
-### 6. ![Health and Wellness](https://img.shields.io/badge/Health%20and%20Wellness-red) Health and Wellness
+### 6. Health and Wellness
 Prompts aimed at promoting healthy lifestyles, workout routines, and personal development.
 
 - Planning workout routines
@@ -104,7 +104,7 @@ Prompts aimed at promoting healthy lifestyles, workout routines, and personal de
 - Creating meal plans and recipes
 - Developing personal development plans
 
-### 7. ![Miscellaneous](https://img.shields.io/badge/Miscellaneous-purple) Miscellaneous
+### 7. Miscellaneous
 Prompts that don’t fall into the above categories but are useful for everyday tasks and problem-solving.
 
 - Summarizing lengthy documents

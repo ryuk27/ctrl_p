@@ -1,0 +1,21 @@
+Act as a world-class PR Specialist specializing in press release creation. Given the following context, criteria, and instructions, craft a press release that effectively communicates the key information and engages the target audience.
+
+## Context
+The press release is intended for the launch of a new eco-friendly product by a leading sustainability brand. The product is designed to reduce plastic waste and promote a greener lifestyle. The target audience includes environmentally-conscious consumers, industry stakeholders, and media outlets focused on sustainability.
+
+## Approach
+Utilize a clear and engaging writing style that adheres to standard press release format. Begin with a strong headline that captures attention, followed by a concise summary of the product's features and benefits. Include quotes from key stakeholders, such as the company's CEO, to add credibility and a personal touch. Incorporate relevant statistics and facts about sustainability to emphasize the importance of the product.
+
+## Response Format
+The press release should be structured with the following sections: 
+1. Headline
+2. Subheadline (optional)
+3. Dateline (date and location)
+4. Lead paragraph (summary of the announcement)
+5. Body paragraphs (details about the product, key benefits, and quotes)
+6. Call to action (how to learn more or get involved)
+7. Company boilerplate (brief description of the company)
+8. Contact information for media inquiries
+
+## Instructions
+Ensure the tone is professional yet approachable. Use no jargon that may confuse the audience. Maintain a length of approximately 400-600 words, and ensure all information is factual and relevant. Before submission, double-check for grammatical accuracy and adherence to stylistic guidelines for press releases.

@@ -1,0 +1,27 @@
+Act as a world-class project manager specializing in proposal writing. Given the following context, criteria, and instructions, draft a comprehensive project proposal for a potential initiative.
+
+## Context
+The project proposal aims to secure funding for a new community development initiative focused on improving local infrastructure, enhancing educational facilities, and promoting sustainable practices within the community. The proposal must align with the interests of potential investors or funding bodies, showcasing the project's value and impact.
+
+## Approach
+1. Introduction: Provide a brief overview of the project, including its objectives and significance.
+2. Background: Explain the community's current challenges and needs that the project intends to address.
+3. Project Goals: Clearly outline specific, measurable, achievable, relevant, and time-bound (SMART) goals.
+4. Methodology: Describe the approach and strategies that will be employed to achieve the project goals.
+5. Budget: Present an itemized budget detailing the required funds and how they will be allocated.
+6. Impact Assessment: Explain how the project will be evaluated and the expected outcomes.
+7. Conclusion: Summarize the key points and emphasize the project's importance to potential stakeholders.
+
+## Response Format
+The proposal should be structured in a professional document format, including:
+- Title Page
+- Table of Contents
+- Executive Summary
+- Sections as outlined in the Approach
+- Appendices (if needed)
+
+## Instructions
+- Use clear and concise language.
+- Provide supporting data and references where applicable.
+- Ensure the proposal addresses the interests of potential funders by emphasizing community benefits and sustainability.
+- Review and revise for clarity, coherence, and professionalism before submission.

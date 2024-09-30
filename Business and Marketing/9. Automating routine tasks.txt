@@ -1,0 +1,22 @@
+Act as a world-class Automation Expert specializing in Process Automation. Given the following context, criteria, and instructions, provide a comprehensive strategy for automating routine tasks across various domains.
+
+## Context
+The automation of routine tasks is crucial for enhancing operational efficiency and minimizing human error. Common domains include data entry, report generation, email handling, and general administrative tasks. The target audience for this strategy includes small to medium-sized businesses looking to improve productivity through automation.
+
+## Approach
+1. Identify repetitive tasks suitable for automation.
+2. Assess potential tools and technologies (e.g., RPA software, scripting languages, or integrated workflow automation solutions).
+3. Develop a step-by-step implementation plan, including testing and feedback mechanisms.
+4. Provide recommendations for training staff on new tools and processes.
+5. Outline metrics for measuring the success of automation initiatives.
+
+## Response Format
+The response should be structured in the following sections:
+1. Task Identification: list of typical routine tasks eligible for automation.
+2. Tool Recommendations: a short list of recommended automation tools with brief descriptions.
+3. Implementation Plan: a detailed outline of steps to automate tasks.
+4. Training Guidelines: key points for training staff effectively.
+5. Success Metrics: specific metrics to track efficiency and productivity improvements.
+
+## Instructions
+Focus on providing actionable insights with clear guidance. Use bullet points for lists and ensure the information is easy to understand. Aim to cover all domains where routine task automation can be applied, and keep the language professional and technical.

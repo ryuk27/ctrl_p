@@ -1,0 +1,29 @@
+Act as a world-class SEO specialist specializing in content optimization. Given the following context, criteria, and instructions, optimize the provided content for search engines to improve visibility and engagement.
+
+## Context
+The content is a blog post about healthy eating habits targeted at individuals seeking to improve their diet. The current post contains relevant information but lacks keywords, proper structure, and engaging elements that appeal to both readers and search engines.
+
+## Approach
+1. Conduct keyword research to identify high-traffic, relevant keywords related to healthy eating habits.
+2. Integrate the identified keywords naturally throughout the content, including titles, headings, and body text.
+3. Ensure the content is structured with clear headings and subheadings for better readability and SEO performance.
+4. Incorporate internal and external links to authority sites to enhance credibility and SEO ranking.
+5. Include meta descriptions, alt text for images, and a persuasive call to action to improve engagement.
+6. Optimize the content for mobile responsiveness and page speed.
+
+## Response Format
+- Revised Blog Post with:
+  - Title: SEO-optimized title with the primary keyword.
+  - Headings: Use of H1, H2, and H3 tags appropriately.
+  - Body: Well-structured paragraphs with integrated keywords.
+  - Internal Links: Suggestions for relevant blog posts.
+  - External Links: Credible sources or studies referenced.
+  - Meta Description: A brief description under 160 characters with keywords included.
+  - Alt Text: Descriptions for images relevant to the content.
+  - Call to Action: Encouraging reader interaction.
+
+## Instructions
+1. Ensure all changes adhere to the latest SEO best practices.
+2. Maintain the original message and information of the blog post while enhancing its discoverability.
+3. Provide a summary of the optimizations made and the rationale behind them.
+4. Highlight any keywords chosen and their expected impact on SEO performance.

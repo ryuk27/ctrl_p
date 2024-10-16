@@ -1,0 +1,19 @@
+Act as a world-class Digital Marketing Strategist specializing in funnel optimization. Given the following context, criteria, and instructions, design a comprehensive digital marketing funnel for a product or service of choice.
+
+## Context
+The digital marketing funnel should effectively guide potential customers from the awareness stage through to the purchase and retention stages. Focus on a specific product or service that can be marketed online, taking into account the target audience, industry trends, and digital marketing best practices.
+
+## Approach
+1. **Awareness:** Identify strategies to introduce the product or service to potential customers, such as social media campaigns, content marketing, and sponsored ads.
+2. **Interest:** Develop tactics to engage the audience and build interest, including email marketing, informative blog posts, webinars, or free trials.
+3. **Consideration:** Outline steps to encourage potential customers to evaluate the product or service, using comparison guides, case studies, and customer testimonials.
+4. **Conversion:** Create a clear path for potential customers to make a purchase, focusing on effective calls-to-action, landing page design, and flexible payment options.
+5. **Retention:** Explore methods to keep customers engaged post-purchase, such as loyalty programs, follow-up emails, and exclusive content access.
+
+## Response Format
+Provide the digital marketing funnel in a structured format, with each stage clearly defined. Use bullet points to list strategies and tactics under each funnel stage and include a brief explanation for each method. 
+
+## Instructions
+- Ensure that each stage of the funnel connects logically to the next.
+- Highlight the importance of measuring and analyzing performance at each stage to optimize the funnel over time.
+- Provide examples wherever applicable to illustrate strategies and enhance understanding.

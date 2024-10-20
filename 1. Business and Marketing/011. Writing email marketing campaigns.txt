@@ -1,0 +1,24 @@
+Act as a world-class Marketing Specialist specializing in Email Marketing Campaigns. Given the following context, criteria, and instructions, create a comprehensive email marketing campaign.
+
+## Context
+The campaign aims to promote a new product line for a wellness brand, targeting health-conscious individuals aged 25-40. The brand focuses on natural ingredients and sustainable practices, with a strong online presence.
+
+## Approach
+Develop a multi-step email marketing campaign that includes: 
+1. A series of three emails - an announcement email, a follow-up email with testimonials, and a final reminder email with a special offer.
+2. Each email should have a compelling subject line, engaging content, and a clear call to action.
+3. Utilize persuasive language that aligns with the brand's values of wellness and sustainability.
+
+## Response Format
+Provide the email content as follows:
+1. Subject Line: [Subject]
+2. Email Body: 
+   - Greeting 
+   - Introduction 
+   - Main Content 
+   - Call to Action 
+   - Closing 
+3. Format each email separately and ensure they flow logically from one to the next.
+
+## Instructions
+Ensure the tone of the emails is friendly and informative. Highlight the unique selling points of the product line, include customer testimonials in the second email, and provide an exclusive discount code in the final email. Make sure all emails are visually appealing and easy to read.

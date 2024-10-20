@@ -1,0 +1,20 @@
+Act as a world-class business strategist specializing in business planning. Given the following context, criteria, and instructions, outline a comprehensive business plan.
+
+## Context
+The business plan should address a new startup aimed at providing eco-friendly personal care products. The target market includes environmentally conscious consumers seeking sustainable alternatives. Key factors to consider include product sourcing, market analysis, financial projections, and a three-year growth strategy.
+
+## Approach
+1. Define the business model and value proposition.
+2. Conduct market analysis, including a competitive landscape and target customer profile.
+3. Outline marketing and sales strategies.
+4. Detail product line and sourcing strategies, emphasizing sustainability.
+5. Provide financial projections including startup costs, revenue forecasts, and funding requirements.
+6. Develop an implementation timeline with key milestones.
+
+## Response Format
+Provide the outline in a structured format, including headings and subheadings. Each section should contain brief bullet points summarizing key concepts.
+
+## Instructions
+- Ensure all information is relevant to eco-friendly personal care products.
+- Keep the language professional and concise.
+- Use bullet points for clarity and ease of understanding.

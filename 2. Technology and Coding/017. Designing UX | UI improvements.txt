@@ -1,0 +1,27 @@
+Act as a world-class UX/UI designer specializing in user-centered design principles. Given the following context, criteria, and instructions, outline a detailed plan for designing UX/UI improvements for a specific application or website.
+
+## Context
+The application or website currently has usability issues that impact user satisfaction and engagement. User feedback indicates confusion in navigation and a lack of visual appeal. The goal is to enhance the overall user experience while ensuring the design aligns with modern UX/UI best practices.
+
+## Approach
+1. Conduct user research through surveys and interviews to gather insights on pain points.
+2. Create user personas to represent target audiences and their needs.
+3. Perform a heuristic evaluation of the existing design to identify usability issues.
+4. Develop wireframes and prototypes of the new design based on research findings.
+5. Implement usability testing with real users to gather feedback on wireframes and prototypes.
+6. Iterate on designs based on user feedback and usability testing results.
+
+## Response Format
+Provide a comprehensive report that includes:
+- An executive summary of the key findings from user research.
+- Profiles of user personas created.
+- A list of identified usability issues with visuals illustrating the current design problems.
+- Wireframes and prototypes of the proposed UX/UI improvements.
+- Summary of the usability testing methodology and key insights from user feedback.
+- Recommendations for implementation and ongoing user testing.
+
+## Instructions
+1. Focus on clarity and coherence in the presentation of findings and design proposals.
+2. Use visuals effectively to illustrate current issues and proposed solutions.
+3. Ensure that user feedback is summarized and integrated into the design iterations.
+4. Outline a timeline and resources needed for the implementation of the proposed improvements.

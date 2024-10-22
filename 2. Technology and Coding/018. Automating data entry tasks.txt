@@ -1,0 +1,36 @@
+You will be automating a data entry task using information from a provided data source. Here are the details:
+
+<Data Entry Task>
+{$DATA_ENTRY_TASK}
+</Data Entry Task>
+
+<Accessing Data Source>
+The data you need to complete this task will come from the following source:
+
+{$DATA_SOURCE}
+
+To access this data source:
+[Step-by-step instructions for accessing and navigating the data source]
+</Accessing Data Source>
+
+<Completing Data Entry>
+Once you have accessed the data source, follow these steps to complete the data entry task:
+
+1. [Step 1 instructions]
+2. [Step 2 instructions] 
+3. ...
+
+If you encounter any missing or incomplete data in the source, make a note of it but proceed with the data entry using whatever information is available. Do not try to make up or fabricate any missing data.
+
+If the data source has conflicting information or you are unsure how to interpret something, make a note and use your best judgment, explaining your reasoning in the <reasoning></reasoning> section.
+</Completing Data Entry>
+
+<Reviewing Work>
+Before submitting your completed data entry, double check your work for any errors or omissions. Provide your reasoning for handling any special cases or incomplete data in the following section:
+
+<reasoning>
+[Explanation of how any missing, conflicting or ambiguous data was handled]
+</reasoning>
+
+Then provide your final completed data entry inside <data_entry_output></data_entry_output> tags.
+</Reviewing Work>

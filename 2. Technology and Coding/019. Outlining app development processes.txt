@@ -1,0 +1,22 @@
+These instructions will guide you in outlining the key processes involved in developing a software application or app.
+
+First, read the following app description carefully:
+
+<app_description>
+{$APP_DESCRIPTION}
+</app_description>
+
+After reading the app description, your task is to outline the major steps and processes required to develop this app from start to finish. The outline should cover the full software development lifecycle, including:
+
+1. Planning and requirements gathering
+2. Design and prototyping 
+3. Development and coding
+4. Testing and quality assurance
+5. Deployment and launch
+6. Maintenance and updates
+
+For each of these main steps, provide detailed sub-steps and guidance on what should be considered and accomplished during that phase of the app development process.
+
+Write your complete outline inside <outline></outline> tags, structuring it with numbered steps and sub-steps as needed.
+
+Before writing the outline, you may want to first think through the key considerations for each phase in an <inner_monologue></inner_monologue> section. This is optional for simple apps, but recommended for more complex applications.

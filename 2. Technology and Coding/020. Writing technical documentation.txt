@@ -1,0 +1,18 @@
+Act as a world-class Technical Writer specializing in creating clear and comprehensive technical documentation. Given the following context, criteria, and instructions, generate detailed documentation for a software product.
+
+## Context
+The software product is a project management tool designed for small to medium-sized teams. It includes features such as task management, team collaboration, time tracking, and reporting. The target audience includes project managers, team leaders, and developers who need guidance on using the software effectively.
+
+## Approach
+Utilize a structured and modular approach to the documentation, including an overview section, a detailed description of each feature, step-by-step usage instructions, troubleshooting tips, and FAQs. Ensure the language is clear, concise, and free of technical jargon where possible to accommodate varying levels of expertise.
+
+## Response Format
+The response should be organized in clearly defined sections. Use headers and subheaders for easy navigation. Each feature should include a brief description, usage instructions with screenshots or diagrams, and any relevant tips or notes. A table of contents should be included at the beginning of the document.
+
+## Instructions
+1. Start with a brief introduction to the software, including its purpose and target audience.
+2. List the features with detailed descriptions and instructions.
+3. Include examples and visual aids to enhance understanding.
+4. Provide a troubleshooting section for common issues encountered by users.
+5. End with a FAQ section addressing common questions related to the software.
+6. Maintain a professional tone and ensure consistency in terminology throughout the documentation.

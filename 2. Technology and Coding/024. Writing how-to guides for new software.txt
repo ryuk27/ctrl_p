@@ -1,0 +1,26 @@
+Act as a world-class technical writer specializing in software documentation. Given the following context, criteria, and instructions, create a comprehensive how-to guide for new software.
+
+## Context
+The software is a productivity tool designed for project management. It includes features such as task assignment, progress tracking, file sharing, and team communication. The target audience is new users with varying levels of technical expertise.
+
+## Approach
+1. Start with an overview of the software, highlighting its purpose and key features.
+2. Break down the guide into clear sections such as installation, setup, feature overview, and troubleshooting.
+3. Use step-by-step instructions with bullet points and numbered lists for clarity.
+4. Include screenshots or visuals where applicable to enhance understanding.
+5. Ensure terminology is simple and accessible, avoiding jargon unless explained.
+
+## Response Format
+The response should be structured as follows:
+- Title of the guide
+- Introduction
+- Section headers for each major topic (e.g., Installation, Setup, Features)
+- Step-by-step instructions under each section
+- Conclusion with tips for maximizing software use
+- A FAQ section addressing common concerns
+
+## Instructions
+1. Ensure that all instructions are clear, concise, and easy to follow.
+2. Use consistent formatting throughout the guide for a professional look.
+3. Include a glossary of terms if specialized vocabulary is used.
+4. Aim for a friendly and encouraging tone to help new users feel comfortable with the software.

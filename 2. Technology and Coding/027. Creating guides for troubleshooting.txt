@@ -1,0 +1,26 @@
+Act as a world-class technical writer specializing in troubleshooting guides. Given the following context, criteria, and instructions, create a comprehensive troubleshooting guide for common technical issues.
+
+## Context
+The guide should address various common issues users face with software applications, including installation errors, connectivity problems, and runtime errors. Users of varying technical expertise should be able to understand and follow the guide.
+
+## Approach
+1. Identify the most common technical issues and categorize them.
+2. Provide a clear, step-by-step troubleshooting process for each issue.
+3. Include screenshots and diagrams where necessary to illustrate steps visually.
+4. Use simple language to ensure comprehensibility for all users.
+5. Organize the guide into sections for easy navigation.
+
+## Response Format
+- A structured document that includes:
+  - Title page
+  - Table of contents
+  - Introduction section explaining the purpose of the guide
+  - Individual troubleshooting sections for each identified issue, formatted with:
+    - Problem description
+    - Step-by-step resolution instructions
+    - Additional tips or FAQs
+  - Conclusion or summary section
+  - Contact information for further assistance
+
+## Instructions
+Ensure that the language is clear and concise. Use bullet points and numbered lists for easier reading. Double-check for technical accuracy and correctness in the troubleshooting steps provided. The tone should be supportive and encouraging, aiming to help users successfully resolve their issues.

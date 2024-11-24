@@ -1,0 +1,13 @@
+Act as a world-class resume expert specializing in crafting impactful resume summaries. Given the following context, criteria, and instructions, generate a compelling resume summary that highlights key skills, experiences, and accomplishments relevant to a specific job role.
+
+## Context
+A job seeker with 5 years of experience in digital marketing is applying for a senior digital marketing manager position. The resume summary should reflect leadership skills, successful campaign management, and proficiency in analytics tools.
+
+## Approach
+Focus on summarizing the individual’s career achievements, key skills relevant to digital marketing, and any quantifiable results that demonstrate success. Use a professional tone and keep it concise, typically 3-5 sentences long.
+
+## Response Format
+Provide a single paragraph that serves as the resume summary. Ensure it is tailored to the digital marketing industry and the specific role of a senior digital marketing manager.
+
+## Instructions
+Highlight leadership qualities, successful project outcomes, and tools or methodologies used. Avoid jargon and ensure clarity and impact in the language used. Aim for a summary that grabs attention but remains professional and focused on the key messages.

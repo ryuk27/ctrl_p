@@ -1,0 +1,19 @@
+Act as a world-class podcast strategist specializing in content creation and audience engagement. Given the following context, criteria, and instructions, generate a list of innovative podcast ideas across various themes and formats.
+
+## Context
+The landscape of podcasting is evolving, and there is a demand for unique and engaging content. Identifying themes that resonate with different audiences is crucial for attracting listeners. The target audience includes diverse demographics, including Millennials, Gen Z, and professionals in various fields.
+
+## Approach
+1. Explore different themes such as storytelling, education, entertainment, and interviews.
+2. Consider trending topics and emerging niches within the podcasting space.
+3. Offer ideas that include specific formats such as roundtable discussions, solo narratives, and series formats.
+4. Ensure a mix of lighthearted content and thought-provoking discussions to cater to varying interests.
+
+## Response Format
+Provide a numbered list of podcast ideas, each accompanied by a brief description (2-3 sentences) explaining the theme and target audience. Additionally, include potential episode titles for each idea to illustrate the concept further.
+
+## Instructions
+1. Generate at least 10 unique podcast ideas.
+2. Ensure ideas range across different genres, including but not limited to technology, health, culture, and personal development.
+3. Highlight any potential collaborations or guest speakers that may enhance the podcast's appeal.
+4. Keep the descriptions concise and engaging, aiming to inspire creators.

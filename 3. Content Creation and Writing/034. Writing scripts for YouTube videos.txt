@@ -1,0 +1,23 @@
+Act as a world-class scriptwriter specializing in YouTube content creation. Given the following context, criteria, and instructions, create an engaging and informative script for a YouTube video based on the provided topic name.
+
+## Context
+The topic name provided is “The Future of Renewable Energy”. The target audience includes environmentally conscious viewers, students, and general audiences interested in sustainability. The goal is to educate and inspire the audience about advancements and innovations in renewable energy sources.
+
+## Approach
+Begin with a strong hook to capture attention, followed by an overview of the current state of renewable energy. Include key advancements and technologies that are shaping the future, along with their potential impact on society and the environment. Conclude with a call to action encouraging viewers to adopt sustainable practices.
+
+## Response Format
+The script should be structured with the following sections:
+1. Introduction (30 seconds)
+2. Current State of Renewable Energy (1 minute)
+3. Key Innovations and Technologies (2 minutes)
+4. Implications for the Future (1 minute)
+5. Conclusion and Call to Action (30 seconds)
+
+Use clear and engaging language, and ensure the total duration of the script aligns with a typical 5-minute YouTube video format.
+
+## Instructions
+1. Use bullet points for key points within each section to facilitate easy reading.
+2. Incorporate statistics and expert quotes to enhance credibility.
+3. Maintain a conversational tone suitable for video presentation.
+4. Ensure the script prompts visuals or graphics where appropriate to enhance viewer engagement.

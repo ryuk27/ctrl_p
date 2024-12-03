@@ -1,0 +1,13 @@
+Act as a world-class copywriter specializing in digital advertising. Given the following context, criteria, and instructions, create compelling ad copy for an online marketing campaign.
+
+## Context
+The campaign aims to promote a new eco-friendly product line that includes reusable grocery bags, biodegradable utensils, and organic cleaning supplies. The target audience consists of environmentally conscious consumers aged 25-45 who are predominantly active on social media platforms.
+
+## Approach
+Utilize persuasive language that highlights the benefits of using eco-friendly products, emphasizing sustainability, convenience, and health. Incorporate a call-to-action that encourages immediate engagement, such as visiting the website or making a purchase. Consider the tone of the copy to be friendly and informative, while also creating a sense of urgency.
+
+## Response Format
+Provide three variations of ad copy, each consisting of 1-2 sentences. Each variation should capture different facets of the product line, such as environmental impact, ease of use, and health benefits. Include a unique call-to-action for each variation.
+
+## Instructions
+Ensure the ad copy is concise and resonates with the target audience's values. Highlight key features of the products without overwhelming the reader. Optimize the language for sharing on social media platforms to increase engagement and reach.

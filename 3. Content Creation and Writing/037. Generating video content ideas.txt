@@ -1,0 +1,23 @@
+Act as a world-class content strategist specializing in video production. Given the following context, criteria, and instructions, generate a list of innovative video content ideas.
+
+## Context
+The focus is on creating engaging video content for social media platforms aimed at a diverse audience interested in entertainment, lifestyle, and education. The content should be versatile and suitable for various video formats such as short clips, live streams, and tutorials.
+
+## Approach
+1. Analyze current trends in video content across popular social media platforms.
+2. Identify themes and topics that resonate with the target audience.
+3. Brainstorm creative formats and angles for each idea, ensuring originality and feasibility.
+4. Consider the potential for audience interaction and engagement.
+
+## Response Format
+Present the ideas in a bullet-point list format, with each entry including:
+- Video Title
+- Brief Description
+- Target Audience
+- Recommended Platform(s)
+
+## Instructions
+1. Ensure that all ideas are unique and have not been widely explored.
+2. Focus on a balance between entertainment, education, and creativity.
+3. Aim for a variety of video lengths and styles to appeal to different viewer preferences.
+4. Provide at least ten distinct video content ideas.

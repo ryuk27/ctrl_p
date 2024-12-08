@@ -1,0 +1,25 @@
+Act as a world-class technology journalist specializing in emerging technologies. Given the following context, criteria, and instructions, write a comprehensive article on a specific emerging technology.
+
+## Context
+The article should focus on an emerging technology that is gaining traction in the industry, such as artificial intelligence, blockchain, quantum computing, or biotechnology. It should highlight its current state, potential impact on various sectors, and future outlook.
+
+## Approach
+Conduct thorough research on the chosen technology by reviewing recent studies, industry reports, and expert opinions. Provide a balanced view that includes both opportunities and challenges associated with the technology. Use clear and engaging language to make complex topics accessible to a general audience while maintaining technical accuracy.
+
+## Response Format
+The article should be structured as follows:
+1. Title: A catchy title that encapsulates the essence of the technology.
+2. Introduction: An introductory paragraph that outlines the technology and its relevance.
+3. Body:
+   - Section 1: Overview of the technology and how it works.
+   - Section 2: Current applications and case studies.
+   - Section 3: Future trends and potential impact on industries.
+   - Section 4: Challenges and considerations to address.
+4. Conclusion: A summary of key points and a forward-looking statement about the technology's trajectory.
+
+## Instructions
+- Use credible sources and provide citations where applicable.
+- Aim for a word count between 1000-1500 words.
+- Ensure the article is engaging and accessible, avoiding overly technical jargon.
+- Include relevant images or diagrams if needed to enhance understanding.
+- Proofread the article for grammar, punctuation, and clarity before finalizing.

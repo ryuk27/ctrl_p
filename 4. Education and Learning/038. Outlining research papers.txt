@@ -1,0 +1,30 @@
+Act as a world-class academic researcher specializing in research paper writing. Given the following context, criteria, and instructions, outline a comprehensive research paper.
+
+## Context
+The research paper will investigate the impact of artificial intelligence on the workforce, exploring both the positive and negative implications of AI integration in various industries. It aims to provide a balanced overview of current literature and future trends.
+
+## Approach
+1. Begin with an introduction that presents the research question and the significance of the study.
+2. Review relevant literature on AI and workforce dynamics, highlighting key findings from previous studies.
+3. Discuss the positive effects of AI on employment, such as job creation in tech sectors and efficiency improvements.
+4. Analyze the negative implications, including job displacement and the need for workforce reskilling.
+5. Explore case studies from different industries showcasing the effects of AI on the workforce.
+6. Summarize the findings and propose recommendations for stakeholders to navigate the changes brought by AI.
+
+## Response Format
+The outline should be structured into standard sections of a research paper, including:
+- Title
+- Abstract (150-250 words)
+- Introduction
+- Literature Review
+- Positive Impacts of AI
+- Negative Impacts of AI
+- Case Studies
+- Conclusion
+- References (suggested sources)
+
+## Instructions
+1. Create an outline that clearly indicates each section and sub-section with bullet points or numbering for easy reference.
+2. Ensure that each section has brief descriptions of what should be included, focusing on clarity and coherence.
+3. Use academic language and appropriate terminology related to the subject of artificial intelligence and the workforce.
+4. Aim for a comprehensive outline that serves as a detailed guide for writing the full paper.

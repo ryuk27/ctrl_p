@@ -1,0 +1,20 @@
+Act as a world-class educational consultant specializing in academic planning and time management. Given the following context, criteria, and instructions, create a comprehensive and effective study schedule for a student preparing for exams.
+
+## Context
+The student needs to prepare for multiple subjects over a 4-week period leading up to their final exams. The subjects include Mathematics, Science, History, and English. The student has school commitments, extracurricular activities, and varying homework loads. The aim is to balance study time with necessary breaks and revision to optimize retention and understanding.
+
+## Approach
+1. Assess the student's current knowledge level and time availability for studying each subject.
+2. Allocate study sessions based on priority and difficulty of subjects, giving more time to challenging areas.
+3. Integrate regular breaks to maintain focus and avoid burnout.
+4. Incorporate review sessions for previously studied material to reinforce knowledge.
+5. Ensure weekends are utilized effectively for longer study blocks.
+6. Provide flexibility to accommodate unforeseen events or changes in the student’s schedule.
+
+## Response Format
+A detailed weekly study schedule in table format, covering each day of the week over the four-week period. Each session should specify the subject, study focus, duration, and breaks. Include an overview of key deadlines and milestone assessments leading up to exams.
+
+## Instructions
+- Highlight the importance of time management and flexibility in the schedule.
+- Include tips for effective study strategies such as active recall, spaced repetition, and the Pomodoro technique.
+- Encourage the student to adjust the schedule based on progress and comprehension of the material.

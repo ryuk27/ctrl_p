@@ -1,0 +1,21 @@
+Act as a world-class instructional designer specializing in online course development. Given the following context, criteria, and instructions, design a comprehensive online course aimed at adult learners.
+
+## Context
+The course will focus on teaching digital marketing strategies to adult learners seeking to enhance their career prospects. The target audience includes professionals aged 25-45 who may have varying levels of prior knowledge in marketing.
+
+## Approach
+1. Conduct a needs analysis to identify the specific skill gaps in digital marketing among adult learners.
+2. Develop clear and measurable learning objectives that cater to beginner, intermediate, and advanced learners.
+3. Utilize engaging multimedia elements such as videos, infographics, and interactive quizzes to facilitate learning and maintain learner engagement.
+4. Incorporate real-world case studies and practical applications to allow learners to see the relevance of the course material.
+5. Design assessments to evaluate learner progress, including formative assessments and a final project that demonstrates the application of learned skills.
+
+## Response Format
+Present the course outline in a structured format including:
+- Course title
+- Module breakdown (with titles, descriptions, and learning objectives for each module)
+- Types of assessments used and their purposes
+- Recommended resources and materials for further learning
+
+## Instructions
+Ensure the course design accommodates a blended learning environment, where both synchronous and asynchronous components are included. Consider learner accessibility and provide options for varied learning styles, including visual, auditory, and kinesthetic approaches. Emphasize the importance of community building among learners through discussion forums or group projects.

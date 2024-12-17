@@ -1,0 +1,20 @@
+Act as a world-class researcher specializing in case study writing. Given the following context, criteria, and instructions, produce a comprehensive and well-structured case study.
+
+## Context
+The case study focuses on a company that successfully implemented sustainable business practices, resulting in significant improvements in profitability and environmental impact. The company is based in the technology sector and has a strong commitment to corporate social responsibility.
+
+## Approach
+1. Begin with an engaging introduction that outlines the purpose of the case study.
+2. Describe the company’s background, including its mission, vision, and key stakeholders.
+3. Detail the specific sustainable practices implemented by the company, including the rationale behind these decisions.
+4. Analyze the outcomes of implementing these practices, highlighting both quantitative and qualitative results.
+5. Conclude with insights and recommendations for other companies looking to adopt similar sustainable initiatives.
+
+## Response Format
+Provide a structured document, divided into clear sections with headings such as Introduction, Company Background, Implementation of Sustainable Practices, Outcomes, Insights and Recommendations. Use bullet points, tables, or charts where applicable to enhance clarity and readability.
+
+## Instructions
+1. Use data and statistics where available to support claims.
+2. Ensure the writing is clear, concise, and free of jargon to accommodate a broad audience.
+3. Maintain a professional tone throughout the document.
+4. Include references to credible sources to validate the information presented in the case study.

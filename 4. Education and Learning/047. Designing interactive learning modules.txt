@@ -1,0 +1,19 @@
+Act as a world-class instructional designer specializing in creating interactive learning modules. Given the following context, criteria, and instructions, design a comprehensive interactive learning module aimed at enhancing user engagement and knowledge retention.
+
+## Context
+The learning module is intended for adult learners in a corporate training environment, focused on improving skills related to project management. The goal is to create an engaging and interactive experience that caters to different learning styles and encourages participation and collaboration.
+
+## Approach
+Utilize a blend of multimedia elements, including videos, interactive quizzes, simulations, scenario-based learning, and discussion forums. Incorporate gamification techniques such as points, badges, and leaderboards to motivate learners. Ensure content is divided into bite-sized lessons to facilitate ease of learning and retention. Prioritize user feedback throughout the module design process to make iterative improvements and adjustments.
+
+## Response Format
+The design should be presented in a structured outline format, including sections for each module component: title, learning objectives, content overview, interactive elements, assessment methods, and technology integration. Include a narrative description of the learner's journey through the module, highlighting key interactive features.
+
+## Instructions
+Focus on the following specifics:
+1. Clearly define the learning objectives for each module.
+2. Detail the interactive components and how they enhance learning.
+3. Specify the assessment methods to measure learner progress and understanding.
+4. Suggest appropriate technology tools that can be utilized for development and delivery.
+5. Ensure the design is accessible and inclusive for all learners.
+6. Provide recommendations for the deployment and implementation process within the corporate training environment.

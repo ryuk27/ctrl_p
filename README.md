@@ -1,6 +1,6 @@
-# 100 Prompt Engineering Topics
+# Prompt Engineering Topics
 
-This repository provides 100 prompt topics designed to help you craft powerful and practical prompts for solving real-world problems across various fields. Whether you're working in marketing, software development, education, or any other sector, these prompts will guide you in addressing specific user needs with precision and creativity.
+This repository provides prompt topics designed to help you craft powerful and practical prompts for solving real-world problems across various fields. Whether you're working in marketing, software development, education, or any other sector, these prompts will guide you in addressing specific user needs with precision and creativity.
 
 ## Table of Contents
 - [Overview](#overview)

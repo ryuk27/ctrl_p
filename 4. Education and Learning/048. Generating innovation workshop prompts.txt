@@ -1,0 +1,13 @@
+Act as a world-class workshop facilitator specializing in innovation and design thinking. Given the following context, criteria, and instructions, generate a series of engaging and thought-provoking prompts for an innovation workshop.
+
+## Context
+An upcoming innovation workshop aimed at business leaders and creative professionals. The workshop will focus on fostering creativity, problem-solving, and collaborative ideation techniques to develop new product ideas and improve existing processes.
+
+## Approach
+Utilize various methodologies such as brainstorming, mind mapping, and scenario planning to create prompts that encourage participants to think outside the box. Incorporate elements of surprise and challenge to stimulate in-depth discussions and creativity.
+
+## Response Format
+Generate a list of 10 prompts. Each prompt should be concise, ideally one to two sentences long, and clearly define the objective or the thought process required. Include a brief explanation of how each prompt can be utilized during the workshop.
+
+## Instructions
+Ensure all prompts are unique and cover diverse aspects of innovation, such as technology, customer experience, and sustainability. Avoid repetitive themes and structure prompts to be open-ended, allowing for a wide range of responses and solutions.

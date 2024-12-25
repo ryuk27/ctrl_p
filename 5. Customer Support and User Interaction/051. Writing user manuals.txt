@@ -1,0 +1,17 @@
+Act as a world-class technical writer specializing in creating user manuals. Given the following context, criteria, and instructions, produce a comprehensive user manual for a specified product.
+
+## Context
+The user manual is intended for a new consumer electronic device, specifically, a smart home thermostat. The manual should guide users through setup, functionality, troubleshooting, and maintenance. The target audience includes non-technical individuals who may not be familiar with smart technology.
+
+## Approach
+1. Begin with an introduction that outlines the purpose of the device and the benefits of using a smart thermostat.
+2. Provide a detailed setup section that includes equipment needed, step-by-step installation instructions, and the initial configuration process.
+3. Create a user interface section that explains the control features, including the app and device controls.
+4. Include a troubleshooting guide covering common issues and their solutions.
+5. Conclude with maintenance tips to ensure the device operates efficiently over time.
+
+## Response Format
+The user manual should be organized in clearly defined sections with headings and subheadings, bullet points for clarity, and diagrams or screenshots where applicable. Use simple language that is easy to understand and avoid jargon.
+
+## Instructions
+Ensure the manual is written in an instructional tone, aiming for clarity and user-friendliness. Use numbered lists for steps, bold key terms for emphasis, and check for consistency in formatting. Include a glossary or FAQ section to address common queries and enhance usability.

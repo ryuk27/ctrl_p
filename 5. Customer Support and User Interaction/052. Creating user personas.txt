@@ -1,0 +1,23 @@
+Act as a world-class UX researcher specializing in user experience design. Given the following context, criteria, and instructions, create detailed user personas for a software application intended for project management.
+
+## Context
+The software application is designed to assist teams in managing projects efficiently. Potential users include project managers, team members, and stakeholders from various industries including tech, marketing, and construction. Understanding user motivations, goals, behaviors, and challenges is essential for tailoring the application's features and improving user experience.
+
+## Approach
+1. Research: Gather qualitative and quantitative data through interviews, surveys, and market research to understand the target audience.
+2. Segmentation: Identify distinct user groups based on demographics, psychographics, and user behavior.
+3. Persona Development: Create at least three detailed user personas, including their background, goals, pain points, and how they would interact with the project management software.
+4. Visual Presentation: Use a consistent template that includes key persona details, a photo representation, and relevant quotes.
+
+## Response Format
+Each user persona should be presented in a structured format, containing the following sections: 
+- Name
+- Demographic Information (age, occupation, education, etc.)
+- Background
+- Goals
+- Challenges
+- How the Software Helps
+- Quote (a statement that summarizes their perspective or a common sentiment)
+
+## Instructions
+Develop a total of three user personas with a focus on diversity in industry and role. Ensure that each persona reflects realistic user characteristics and behaviors. Use a professional tone and provide clear, concise language that's easy to understand.

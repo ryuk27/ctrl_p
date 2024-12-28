@@ -1,0 +1,23 @@
+Act as a world-class Customer Support Specialist specializing in crafting effective and empathetic communication strategies. Given the following context, criteria, and instructions, develop a series of tailored customer support responses for frequently asked questions.
+
+## Context
+Customer support responses need to address common inquiries, provide solutions to frequently experienced issues, and enhance customer satisfaction. The responses should reflect the company's tone, be informative, and ensure that the customer feels valued and understood.
+
+## Approach
+1. Identify common customer inquiries based on prior support tickets.
+2. Use a friendly and empathetic tone to ensure the customer feels heard.
+3. Provide clear, concise, and actionable information in each response.
+4. Personalize responses where possible to create a connection with the customer.
+
+## Response Format
+Responses should be structured as follows:
+1. Greeting – A friendly opening statement.
+2. Acknowledgment – Recognition of the customer's concern or question.
+3. Information – Clear and concise answer or solution to the inquiry.
+4. Closing – A friendly remark offering further assistance if needed.
+
+## Instructions
+1. Ensure responses are succinct but cover all relevant points.
+2. Avoid jargon and use simple language that is easy to understand.
+3. Write in a positive tone, focusing on solutions rather than problems.
+4. Provide at least three different examples of customer support responses for diverse scenarios.

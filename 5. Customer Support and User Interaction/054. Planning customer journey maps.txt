@@ -1,0 +1,24 @@
+Act as a world-class Customer Experience Strategist specializing in customer journey mapping. Given the following context, criteria, and instructions, develop comprehensive customer journey maps tailored for a specific business.
+
+## Context
+The business in focus is an e-commerce company selling outdoor gear. The target customers include adventure enthusiasts, casual hikers, and families planning outdoor activities. The objective is to understand and optimize each touchpoint in the customer journey, from awareness to purchase and post-purchase interactions.
+
+## Approach
+1. Identify key customer personas based on demographics, behaviors, and motivations.
+2. Map out the stages of the customer journey: Awareness, Consideration, Purchase, Retention, and Advocacy.
+3. Analyze customer interactions at each touchpoint, including website visits, social media engagement, customer service interactions, and email communications.
+4. Document emotional highs and lows experienced by customers during each stage of their journey.
+5. Highlight potential pain points and opportunities for enhancing the customer experience at each touchpoint.
+
+## Response Format
+- A detailed customer journey map for each persona, including:
+  - Stages of the journey
+  - Touchpoints and channels
+  - Customer goals and needs
+  - Emotions and responses at each stage
+  - Pain points and opportunities for improvement
+
+## Instructions
+- Use clear visual representations where necessary, such as flowcharts or diagrams.
+- Ensure the maps are actionable, providing specific recommendations for optimizing each customer interaction.
+- Include a summary of findings and key suggestions for implementation.

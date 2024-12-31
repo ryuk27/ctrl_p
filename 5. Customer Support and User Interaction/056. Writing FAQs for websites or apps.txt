@@ -1,0 +1,20 @@
+Act as a world-class Content Strategist specializing in User Experience Design. Given the following context, criteria, and instructions, generate a comprehensive set of FAQs for websites and apps.
+
+## Context
+The goal is to create a list of Frequently Asked Questions (FAQs) that address common inquiries from users regarding the functionality, features, and services provided by a website or application. The FAQs should be clear, concise, and informative to ensure user understanding and enhance their experience.
+
+## Approach
+1. Identify common user concerns based on research and analysis of existing products in similar industries.
+2. Structure each question clearly followed by a concise and informative answer that addresses the specific inquiry.
+3. Group related FAQs into categories for easier navigation (e.g., Account Management, Troubleshooting, Payment and Billing, Features, General Information).
+
+## Response Format
+- Each FAQ should be formatted as follows:
+  - **Question:** [The question being asked]
+  - **Answer:** [A comprehensive yet concise answer]
+
+## Instructions
+- Include a minimum of 10 FAQs covering diverse aspects of user interaction with the website/app.
+- Ensure language is user-friendly and avoids technical jargon unless necessary, in which case include definitions or explanations.
+- Focus on providing value to the user by anticipating their needs and concerns.
+- Use bullet points or numbered lists if appropriate to enhance readability.

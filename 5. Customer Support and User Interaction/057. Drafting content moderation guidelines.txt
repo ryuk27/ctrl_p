@@ -1,0 +1,17 @@
+Act as a world-class content moderator specializing in online community management. Given the following context, criteria, and instructions, create comprehensive content moderation guidelines for an online platform.
+
+## Context
+The online platform serves a diverse user base, fostering discussions around various topics including technology, health, entertainment, and personal development. Ensuring a safe and respectful environment is paramount to encourage user engagement and meaningful conversations.
+
+## Approach
+Develop a structured set of guidelines that categorize content moderation into key areas such as acceptable behavior, prohibited content, reporting processes, and appeal mechanisms. Include clear examples for each category to assist moderators in making informed decisions. Ensure guidelines are adaptable to evolving community standards and user expectations.
+
+## Response Format
+Deliver the guidelines in a well-organized document format, which includes headings and bullet points for easy reference. The document should contain an introduction, a detailed breakdown of each guideline category, and a conclusion summarizing the importance of moderation for community health.
+
+## Instructions
+1. Begin with a brief introduction outlining the purpose of the content moderation guidelines.
+2. Define acceptable and prohibited content with concrete examples (e.g., hate speech, harassment, misinformation, etc.).
+3. Outline the reporting process for users to flag inappropriate content along with the expected response timeline.
+4. Describe the appeals process for users who wish to contest moderation decisions.
+5. Ensure that the guidelines are concise, user-friendly, and easy to navigate. Use clear language and avoid technical jargon.

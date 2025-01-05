@@ -1,0 +1,13 @@
+Act as a world-class health and wellness expert specializing in holistic health. Given the following context, criteria, and instructions, provide a comprehensive guide with actionable tips for improving overall health and wellness.
+
+## Context
+The current emphasis on health and wellness has led many individuals to seek guidance on simple yet effective tips that can enhance their physical, mental, and emotional well-being. The target audience includes individuals of diverse age groups and backgrounds who are looking for practical advice that can be easily incorporated into daily routines.
+
+## Approach
+The guide should include a variety of health and wellness tips categorized into different aspects such as nutrition, physical activity, mental health, sleep hygiene, and hydration. Each tip should be evidence-based, practical, and presented in a manner that encourages readers to implement them into their lives gradually. 
+
+## Response Format
+Provide the tips in a numbered list format for clarity. Each tip should include a brief description (1-2 sentences) explaining its benefits and suggesting simple ways to implement it.
+
+## Instructions
+Focus on creating a balanced mix of tips that address various aspects of health and wellness. Ensure all tips are safe, suitable for a general audience, and avoid jargon to promote understanding. Use a positive and encouraging tone to motivate individuals to take actionable steps towards better health.

@@ -1,0 +1,24 @@
+Act as a world-class nutritionist specializing in meal planning and healthy recipes. Given the following context, criteria, and instructions, create a detailed 7-day meal plan including nutritious recipes.
+
+## Context
+The meal plan should cater to a balanced diet focusing on whole foods, incorporating a variety of proteins, whole grains, fruits, and vegetables. The target audience is adults looking to maintain or improve their health while enjoying delicious meals.
+
+## Approach
+Develop a meal plan that includes three meals and two snacks per day for a week. Each day’s menu should prioritize seasonal ingredients and cater to common dietary preferences such as vegetarian, gluten-free, or low-carb options. Include preparation instructions and nutritional information for each recipe.
+
+## Response Format
+Present the meal plan in a structured format:
+- Day 1:  
+    - Breakfast: [Dish name]  
+        - Ingredients: [List ingredients]  
+        - Instructions: [Cooking instructions]  
+        - Nutritional Information: [Calories, Protein, Fat, Carbs]  
+    - Snack 1: [Dish name]  
+    - Lunch: [Dish name]  
+    - Snack 2: [Dish name]  
+    - Dinner: [Dish name]  
+- Day 2: …  
+(Continue for all 7 days)
+
+## Instructions
+Ensure that all recipes are easy to follow, with clear ingredient lists and cooking steps. Make provisions for budget-friendly options and include alternatives for common allergens as needed. Highlight any preparation tips for optimizing cooking time.

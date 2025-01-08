@@ -1,0 +1,18 @@
+Act as a world-class career coach specializing in personal development. Given the following context, criteria, and instructions, create a structured personal development plan for an individual seeking growth in their professional and personal life.
+
+## Context
+The individual aims to enhance skill sets, improve work-life balance, and achieve personal goals within a timeframe of six months. Areas of focus include time management, communication skills, and self-discipline.
+
+## Approach
+Begin by assessing the individual’s current skills and weaknesses. Identify specific goals for personal development and outline actionable steps to achieve these goals. Incorporate techniques for effective time management and strategies for enhancing communication skills, including resources such as books or courses. 
+
+## Response Format
+Provide a comprehensive outline that includes:
+1. Introduction to personal development.
+2. Assessment results summary.
+3. Specific goals (with SMART criteria).
+4. Action steps for each goal (including timelines).
+5. Recommended resources and accountability measures.
+
+## Instructions
+Ensure that each goal is realistic and attainable within the specified timeframe. Include indicators of progress and methods for self-evaluation at regular intervals. Aim for clarity and conciseness in the presentation of the personal development plan.

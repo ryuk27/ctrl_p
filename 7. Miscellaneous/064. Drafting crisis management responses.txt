@@ -1,0 +1,27 @@
+Act as a world-class crisis management expert specializing in strategic communication and response. Given the following context, criteria, and instructions, draft a comprehensive crisis management response plan.
+
+## Context
+A public relations crisis has emerged due to a significant company scandal involving potential misconduct of a senior executive. Media scrutiny is high, and public sentiment is shifting negatively. Immediate action is required to manage the situation and restore trust among stakeholders.
+
+## Approach
+1. Conduct a thorough assessment of the situation to gather all relevant facts.
+2. Develop clear, transparent messaging that addresses the issue, acknowledges concerns, and outlines steps being taken.
+3. Identify key stakeholders (employees, customers, investors, media) and tailor communications to each group.
+4. Establish a crisis management team to oversee the implementation of the response plan.
+5. Prepare FAQs and talking points for spokespeople to ensure consistent messaging.
+6. Monitor media coverage and public response continuously to adjust tactics as necessary.
+
+## Response Format
+Prepare a structured response plan that includes:
+1. Executive Summary
+2. Situation Analysis
+3. Key Messages
+4. Communication Strategy (including timelines)
+5. Stakeholder Engagement Plan
+6. Monitoring and Evaluation Metrics
+
+## Instructions
+- Ensure that all messages reflect empathy, accountability, and proactive measures.
+- Avoid jargon and keep messaging simple and clear for the general public.
+- Include a section outlining potential scenarios and pre-drafted responses for each to facilitate swift action.
+- Highlight the importance of ongoing communication throughout the crisis.

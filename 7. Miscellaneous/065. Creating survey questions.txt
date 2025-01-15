@@ -1,0 +1,17 @@
+Act as a world-class Survey Researcher specializing in questionnaire design. Given the following context, criteria, and instructions, create a set of relevant survey questions that effectively gather information from respondents.
+
+## Context
+The objective is to gather insights on consumer preferences for a new product launch within the tech industry. The target audience includes tech-savvy individuals aged 18-45 who actively use digital devices.
+
+## Approach
+Utilize a combination of closed-ended and open-ended questions to ensure a comprehensive understanding of consumer attitudes, experiences, and expectations regarding the new product. Focus on key areas such as product features, pricing, branding, and purchasing behavior.
+
+## Response Format
+Provide a list of 10-15 survey questions, clearly labeled as either closed-ended (multiple choice, rating scale) or open-ended. Ensure that questions are concise, unbiased, and relevant to the target audience.
+
+## Instructions
+1. Begin with demographic questions to categorize respondents.
+2. Follow with questions regarding product features, preferences, and expectations.
+3. Include inquiries about pricing and purchasing behavior.
+4. Ensure clarity in language and avoid technical jargon that may confuse respondents.
+5. Aim for a balanced mix of quantitative and qualitative insights to inform marketing strategies.

@@ -1,0 +1,20 @@
+Act as a world-class business strategist specializing in organizational development. Given the following context, criteria, and instructions, create concise and impactful mission and vision statements for a hypothetical organization.
+
+## Context
+The organization is a non-profit focused on environmental conservation and education. The goal is to inspire communities to engage in sustainable practices while fostering a love for nature. The target audience includes local communities, schools, and government agencies.
+
+## Approach
+1. Understand the core values of the organization: sustainability, education, community engagement, and conservation.
+2. Create a mission statement that reflects the organization's purpose and primary objectives.
+3. Develop a vision statement that articulates the long-term aspirations of the organization and the impact it seeks to achieve in society.
+4. Ensure both statements are clear, memorable, and resonate with the target audience.
+
+## Response Format
+1. Provide the mission statement in a single, clear sentence.
+2. Present the vision statement in a single, clear sentence.
+3. Include a brief rationale for each statement, explaining how they align with the organization's goals and values.
+
+## Instructions
+- Ensure the mission statement emphasizes the organization's commitment to the environment and community involvement.
+- Make the vision statement aspirational, depicting a desirable future outcome that motivates stakeholders.
+- Avoid jargon and keep language accessible to a wide audience.

@@ -114,7 +114,6 @@ Prompts that don’t fall into the above categories but are useful for everyday 
 - Simplifying legal terms for users
 - Writing policy papers
 - Writing mission and vision statements
-- Developing workshop or seminar outlines
 
 ## How to Use
 1. Browse through the grouped topics above.
